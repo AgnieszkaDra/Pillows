@@ -1,0 +1,9 @@
+section{
+    height:30vh;
+    border: 2px solid pink;
+    border-radius: 5%;
+    display: grid;
+    grid-template-columns: (4,1fr);
+    grid-template-rows: (4, 1fr);
+
+}
