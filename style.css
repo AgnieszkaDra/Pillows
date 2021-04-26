@@ -66,6 +66,8 @@ background-size: 20px 20px;
     grid-template-columns: 1fr 1fr;
 }
 
+
+
 .section__triangle--yellow{
     background-image: url("img/triangle.jpg");
     background-color:aqua;
@@ -95,4 +97,29 @@ background-size: 20px 20px;
     grid-template-columns: repeat(4, 7px 5px 1fr 2fr);
     grid-template-rows: repeat(4, 2fr 1fr 5px 7px);
    
+}
+.section__grid__img{
+    width:400px;
+    height:400px;
+    border-radius: 5%;
+    /* display: grid;
+    grid-template-rows: 1fr 1fr ;
+    grid-template-columns: 1fr 1fr; */
+}
+ .section__hearths{
+      background-image: url("img/hearts.png");  
+     
+     background-color:aqua;
+     
+      background-repeat: no-repeat;  
+     background-size: contain;
+     position: relative;
+     height: 0;
+     padding-bottom: 100%;
+    
+   
+}
+
+.section__dotss{
+    background-color: #444cf7;
 }
