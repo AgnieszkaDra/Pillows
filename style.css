@@ -102,9 +102,9 @@ background-size: 20px 20px;
     width:400px;
     height:400px;
     border-radius: 5%;
-    /* display: grid;
+    display: grid;
     grid-template-rows: 1fr 1fr ;
-    grid-template-columns: 1fr 1fr; */
+    grid-template-columns: 1fr 1fr; 
 }
  .section__hearths{
       background-image: url("img/hearts.png");  
