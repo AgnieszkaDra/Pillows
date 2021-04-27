@@ -12,3 +12,7 @@ if (hourNow > 18){
     greeting = 'Witamy!';
 }
 document.write('<h3>' + greeting + '</h3>');
+
+
+
+

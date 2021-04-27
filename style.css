@@ -123,3 +123,22 @@ background-size: 20px 20px;
 .section__dotss{
     background-color: #444cf7;
 }
+
+.section__ownpillow{
+    width:400px;
+    height:400px;
+    border-radius: 5%;
+    display: grid;
+    grid-template-rows: 1fr 2fr;
+   
+
+}
+
+.section__ownpillow__title{
+    background-color: aliceblue;
+}
+
+#section__ownpillow__name{
+    background-color: grey;
+}
+
