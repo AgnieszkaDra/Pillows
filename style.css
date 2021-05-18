@@ -248,3 +248,33 @@ align-items: center;
     text-align: center;
    
 }
+
+ .center{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    
+
+}
+
+.section__działania{
+    background-color: #2196F3;
+
+}
+.section__działania div{
+    
+    width: 80%;
+    
+    
+}
+
+.section__działania div > .p{
+    float: left;
+    line-height: 80%;
+    font-size: 40px;
+    
+  
+}
+
+
+

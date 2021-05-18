@@ -24,8 +24,8 @@ function add1(c){
 let result2 = add1(2);
 console.log(result2);
 
-function multiple2{
-    return 10*result2;
+function multiple2(a,result2){
+     
 }
 
 let result3 = multiple2()
